@@ -1,0 +1,4 @@
+    x1 Errore relativo x1
+ -2.39   0.00001084
+    x2 Errore relativo x2
+ -0.28   0.00000279
