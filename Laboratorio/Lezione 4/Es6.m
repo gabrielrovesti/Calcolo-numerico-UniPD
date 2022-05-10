@@ -22,8 +22,8 @@ plot(xplot,yplot)
 hold on
 plot(xplot,dyplot)
 plot(xplot,0*xplot)
-legend('f','df','asse x')
-title('funzione e derivata')
+legend('F','Df','Asse x')
+title('Funzione e derivata')
 hold off
 
 %% punto 2
@@ -49,8 +49,8 @@ semilogy(abs_res_vec_N,'g--');
 semilogy(sN,'g:');
 semilogy(err_N,'g');
 title('Raffronto dei risultati')
-legend('abs residuo bisezione', 'scarto bisezione','errore bisezione',...
-    'abs residuo newton', 'scarto newton','errore newton')
+legend('Valore assoluto residuo bisezione', 'Scarto bisezione','Errore bisezione',...
+    'Valore assoluto residuo newton', 'Scarto Newton','Errore Newton')
 hold off
 
 %% punto 5
@@ -59,6 +59,6 @@ semilogy(err_B(2:end)./sB,'b');
 hold on
 semilogy(err_N(2:end)./(sN.^2),'g');
 semilogy(1/cN(xstar)+0.*err_N(2:end)./(sN.^2),'r:');
-title('rapporto errore scarto');
-legend('bisezione p=1','newton p=2','limite teorico')
+title('Rapporto errore scarto');
+legend('Bisezione p=1','Newton p=2','Limite teorico')
 hold off
