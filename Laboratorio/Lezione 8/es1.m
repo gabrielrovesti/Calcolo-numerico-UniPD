@@ -1,7 +1,7 @@
 dim = (2:20);
 eps=10^(-15);
 
-err = zeros(length(n),1);
+err = zeros(length(dim),1);
 err_sol1=err;
 err_norm=err;
 
@@ -21,8 +21,8 @@ for n=dim
     ya=SostituzioneAvanti(L,b);
     yb=SostituzioneIndietro(U,ya);
 
-    err(k)=mean(abs(xvero-yb));
-    err_sol1(k)=mean(abs(xvero-xb));
+    err(k)=norm(xvero-yb);
+    err_sol1(k)=norm(xvero-xb);
     err_norm(k)=norm(U-triu(U));
     k=k+1;
 end

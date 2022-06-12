@@ -1,26 +1,35 @@
-%
-% approssimazione ai minimi quadrati della funzione di Runge
-%
-% INPUT
-% f : function handle su 2000 punti equispaziati
-% n : 150 calcoli 
-%
-% OUTPUT
-%
+clear all
+close all
 
-% FUNCTION BODY
-f = @(x) 1./(25.*x.^2+1);
-xfit=linspace(-1,1,2000);
+%f=@(x) 1./(25*x.^2+1);
+f=@(x) exp(1).^(-1./(1-x.^2));
+%f=@(x) sin(pi*x)
+xfit=linspace(-1,1,2001)';
+xfit1=cos(pi*(1+xfit)/2);
+xeval=linspace(-1,1,10000)';
 yfit=f(xfit);
-xeval=linspace(-1,1,10000);
+yfit1=f(xfit1);
+yeval=f(xeval);
 degs=2:2:150;
-err=zeros(length(degs),1);
-
-for deg=degs;
-    [peval,c]=MyPolyfit(xfit,xeval,yfit,deg);
-    peval=xeval.*c;
-    err(deg)=max(abs(xeval - peval));
+k=1;
+%%
+for n=degs
+    peval=MyPolyfit(xfit,xeval,yfit,n);
+    peval_unstable=MyPolyfit_unstable(xfit,xeval,yfit,n);
+    peval1=MyPolyfit(xfit1,xeval,yfit1,n);
+    peval_unstable1=MyPolyfit_unstable(xfit1,xeval,yfit1,n);
+    err(k)=max(abs(peval-yeval));
+    err_unstable(k)=max(abs(peval_unstable-yeval));
+    err1(k)=max(abs(peval1-yeval));
+    err_unstable1(k)=max(abs(peval_unstable1-yeval));
+    k=k+1;
 end
-figure(1)
-semilogy(degs,err);
-title('Massimo errore sui punti di valutazione');
+%%
+semilogy(degs,err)
+hold on
+semilogy(degs,err_unstable,'--')
+semilogy(degs,err1,'g');
+semilogy(degs,err_unstable1,'-.')
+legend('cheb basis unif points','can basis unif points',...
+    'cheb basis cheb points','can basis cheb points')
+    
