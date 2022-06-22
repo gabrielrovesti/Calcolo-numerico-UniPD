@@ -1,0 +1,17 @@
+- Non si può accedere al Moodle normale durante l'esame
+(rimane consultabile tramite la Command Window la documentazione di Matlab)
+- Esiste una cartella Compito dove si possono salvare i file dell'esame
+(non obbligatorio ma consigliato)
+- Il compito va consegnato solo chiamando Piazzon;
+similmente, ci si ritira solo chiamando Piazzon. Tenere
+a portata di mano un documento di identità che fa l'identificazione
+una volta che si consegna/ci si ritira.
+A quel punto basta consegnare i file. m trascinandoli nel Moodle Esami
+(nb: non come archivio/zip, ma come file singoli) e va bene così.
+- Il compito dura 90 minuti da quando lo segna Piazzon
+- In ogni file (non come nome del file), come prima linea di commento va salvato
+% Nome Cognome Matricola Numero posto
+- L'unico link accessibile è il Moodle Esami, iscrivendosi a quello dell'anno
+(se non lo si è già fatto) e, ad un certo punto, il compito diventa visibile
+- Il prof non ha dato nessuna comunicazione sulle modalità d'esame
+eccezion fatta per i turni (caso primo appello, dalla A alla M e poi dalla M alla Z)
