@@ -1,0 +1,111 @@
+Calcolo Numerico, LT in Informatica, a.a. 2021/22
+
+Programma delle lezioni di teoria 
+
+docente: Marco Vianello (Dip.to di Matematica)
+
+
+1) Sistema floating-point e propagazione degli errori 
+
+rappresentazione dei reali in base b, errore di troncamento (con le 
+serie); errore di arrotondamento, rappresentazione floating-point, 
+precisione di macchina; struttura dei reali macchina: cardinalita', 
+estensione, densita', modello dei reali-macchina in precisione doppia 
+(64 bit); 
+
+operazioni macchina, operazioni aritmetiche con numeri approssimati, 
+analisi di stabilita' di moltiplicazione, divisione, addizione 
+e sottrazione, esempi; potenziale instabilita' della formula risolutiva 
+per eqz. di II grado, stabilizzazione; 
+
+condizionamento di funzioni; 
+
+propagazione degli errori in schemi iterativi: successione di Archimede 
+per pigreco; 
+
+introduzione allo studio del costo computazionale degli algoritmi 
+numerici tramite esempi: schema di Hoerner per i polinomi; calcolo rapido 
+di una potenza tramite codifica binaria dell'esponente; calcolo della
+funzione exp 
+
+Cap.1, lezioni estese 1-7 su MOODLE
+
+
+2) Soluzione numerica di equazioni non lineari
+
+esistenza, unicita' e localizzazione degli zeri; il metodo di 
+bisezione: convergenza, stima dell'errore col residuo pesato; 
+
+il metodo di Newton: convergenza globale; velocita' di convergenza, 
+def. di ordine di convergenza; convergenza locale (dim. facolt.), 
+stima a posteriori dell'errore, schema di Erone per sqrt; cenni 
+ad altri metodi di linearizzazione (corde, secanti);  
+
+iterazioni di punto fisso: teorema delle contrazioni (enunciato), 
+convergenza locale, stime dell'errore, ordine di convergenza, 
+il metodo di Newton come iterazione di punto fisso  
+
+Cap. 2, lezioni estese 8-11 su MOODLE
+
+
+3) Interpolazione e approssimazione di dati e funzioni
+
+introduzione al problema dell'interpolazione: interpolazione 
+polinomiale, esistenza e unicita' con Vandermonde e Lagrange; 
+formula dell'errore dell'interpolazione polinomiale (dim. facolt.); 
+il problema della convergenza dell'interpolazione polinomiale, 
+controesempio di Runge; interpolazione di Chebyshev, costante di 
+Lebesgue e stabilita' dell'interpolazione; 
+
+interpolazione polinomiale a tratti, convergenza uniforme della 
+lineare a tratti, interpolazione spline; 
+
+approssimazione polinomiale ai minimi quadrati, sistema delle 
+equazioni normali
+
+Cap. 3, lezioni estese 12-15 su MOODLE
+
+
+4) Integrazione numerica e derivazione numerica 
+
+integrazione numerica: formule di quadratura algebriche e composte, 
+formula dei trapezi e delle parabole, convergenza, stabilita', importanza 
+delle formule di quadratura a pesi positivi; 
+
+derivazione numerica: instabilita', rapporti incrementali standard 
+e simmetrico, minimizzazione dell'errore per funzioni approssimate, 
+cenni all'estrapolazione (facoltativo)  
+
+Cap. 4, lezioni estese 16-18 su MOODLE (lez. 18: fino a pag. 16 - facoltativo) 
+
+
+5) Elementi di algebra lineare numerica
+
+norme di vettori e matrici, disuguaglianze fondamentali per le norme 
+matriciali indotte; condizionamento di un sistema lineare (caso 
+di vettore termine noto perturbato e caso di matrice perturbata, 
+solo enunciato nel caso generale), esempi di mal condizionamento;
+
+riduzione di una matrice quadrata a forma triangolare tramite il 
+metodo di eliminazione gaussiana (meg) con pivoting, calcolo del 
+determinante (confronto di costo con la formula di Laplace);  
+fattorizzazione LU col meg, soluzione di sistemi triangolari, 
+soluzione di sistemi lineari con meg e LU; effetto dell'arrotondamento 
+sull'accuratezza della fattorizzazione e sulla soluzione di sistemi 
+(matrice di Hilbert), inversione di matrici;
+
+sistemi sovradeterminati: minimi quadrati, sistema delle equazioni 
+normali, soluzione del sistema delle equazioni normali tramite la 
+fattorizzazione QR
+
+Cap. 5, lezioni estese 19-24 su MOODLE
+
+
+---------------
+MOODLE CORSO (LEZIONI ESTESE e VIDEO LEZIONI) 
+https://elearning.unipd.it/math/course/view.php?id=869
+
+DISPENSE SINTETICHE (consigliate solo per ripasso): 
+Tracce di calcolo numerico 
+https://www.math.unipd.it/~marcov/studenti.html
+
