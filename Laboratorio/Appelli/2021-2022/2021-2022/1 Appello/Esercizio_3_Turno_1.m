@@ -10,7 +10,7 @@ h=(b-a)./(2*N);
 
 for i=N
     x=linspace(-1,1,2*i+1)';
-    f=@(x) exp^(-1)./(1-abs(x));
+    f=@(x) exp^(-1)./(1-x^2);
     w=(b-a)/2*i*[1/2,ones(1,2*i-1),1/2];
     It(i)=w*(x);
 end
