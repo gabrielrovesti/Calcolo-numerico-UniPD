@@ -1,18 +1,14 @@
 clear
 close all
 clc
-% formula di quadratura dei trapezi con N+1 punti
-N=100;
-a=1; b=-1;
-It=zeros(1,length(N));
-intvero=0.44;   %dopo il calcolo dell'integrale
-h=(b-a)./(2*N);
-
-for i=N
-    x=linspace(-1,1,2*i+1)';
-    f=@(x) exp^(-1)./(1-x^2);
-    w=(b-a)/2*i*[1/2,ones(1,2*i-1),1/2];
-    It(i)=w*(x);
-end
-
+N=100; % numero di sottointervalli
+a=-1; b=1; % estremi di integrazione
+intvero=4.06;   % calcolo dell'integrale sugli estremi a e b
+x=linspace(-1,1,2*N+1)'; % formula dei trapezi adattata ad i per il ciclo
+f=@(x) exp(1).^(-1./(1-x.^2));
+w=(b-a)/2*N*[1/2,ones(1,2*N-1),1/2];
+It=w*f(x);
+% Approssimazione dell’integrale a 12 cifre decimali;
+% da quello che ho capito, il ciclo non serve, farebbe una stampa 100 volte
+% Infatti, avendo N=100 sottointervalli, è sufficiente scrivere la formula
 fprintf("Approssimazione integrale: %1.12f \n", abs(intvero - It));
