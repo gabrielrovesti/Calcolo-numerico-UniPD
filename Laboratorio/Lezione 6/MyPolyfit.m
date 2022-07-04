@@ -1,9 +1,0 @@
-function [peval,c]=MyPolyfit(xfit,xeval,yfit,deg)
-V=chebvand1d(deg,xfit);
-Veval=chebvand1d(deg,xeval);
-[Q,R]=qr(V);
-R0=R(1:size(V,2),:);
-Q0=Q(:,1:size(V,2));
-b=Q0'*yfit;
-c=SostituzioneIndietro(R0,b);
-peval=Veval*c;

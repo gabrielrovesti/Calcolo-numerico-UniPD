@@ -28,7 +28,7 @@ X=sort(Y);
 x1=X(1);x2=X(2);
 fprintf('x1 vale %5.5f\n',x1)
 fprintf('x2 vale %5.5f\n',x2)
-if and(not(x1==NaN),not(x2==NaN))
+if and(not(isnan(x1)),not(isnan(x2)))
     err_rel_1=abs((x1-x1vera)/x1vera);
     err_rel_2=abs((x2-x2vera)/x2vera);
     fprintf('err_rel_1 vale %3.15e\n',err_rel_1)

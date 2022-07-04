@@ -1,3 +1,0 @@
-clear;
-
-% Come es1
