@@ -1,0 +1,27 @@
+- Primo Turno
+Quiz:
+1) In un sistema floating-point F(b, t, L, U) il più piccolo reale-macchina
+2) Costo computazionale del Metodo di Eliminazione Gaussiana
+3) Errore interpolazione spline cubica a passo costante
+
+Domande Aperte:
+1) Instabilità della sottrazione
+2) Unicità del polinomio interpolatore di grado <= n
+
+- Secondo Turno:
+1) Stabilità di moltiplicazione e divisione
+2) Convergenza almeno quadratica del metodo di Newton per zeri semplici
+
+- Terzo Turno:
+1) Precisione di macchina
+2) Stima errore relativo sulla soluzione di un sistema lineare (perturbazione termine noto)
+
+- Quarto turno
+Quiz:
+1) Errore della formula di derivazione numerica col rapporto incrementale simmetrico
+2) Costo computazionale del metodo di eliminazione gaussiana applicato a una matrice invertibile
+3) Il metodo di Newton quando converge
+
+Domande aperte:
+1) Perché la sottrazione tra numeri approssimati può essere instabile
+2) Perchè il polinomio interpolatore di grado <= n  su n+1 nodi distinti esiste

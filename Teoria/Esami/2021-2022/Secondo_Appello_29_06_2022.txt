@@ -1,0 +1,23 @@
+Primo Turno
+
+Quiz:
+Pagina 5 dei quiz (tutti i test esame calcolo)
+
+Domande:
+Stabilità di addizione e moltiplicazione
+Perché l'interpolazione lineare a tratti converge con errore O(h²)
+
+Secondo turno
+
+Domande:
+Rapporto incrementale simmetrico
+Precisione di macchina
+
+Terzo Turno
+
+Quiz: 
+Pagina 8 dei quiz (tutti i test esame calcolo)
+
+Domande:
+Sistema delle equazioni normali per l’approssimazione polinomiale ai minimi quadrati
+Stabilità moltiplicazione e addizione 

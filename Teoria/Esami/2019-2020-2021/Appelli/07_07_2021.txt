@@ -1,0 +1,3 @@
+Domande:
+Precisione di macchina 
+Stima errore relativo su sistema lineare con vettore noto affetto da errori (parte 1 Sistemi di condizionamento)

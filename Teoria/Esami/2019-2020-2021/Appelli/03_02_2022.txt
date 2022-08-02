@@ -1,0 +1,7 @@
+Primo Turno:
+Stabilità sottrazione
+Precisione di macchina
+
+Secondo Turno:
+- Perchè addizione e divisione sono stabili
+- Perchè il residuo non pesato non può essere una buona stima

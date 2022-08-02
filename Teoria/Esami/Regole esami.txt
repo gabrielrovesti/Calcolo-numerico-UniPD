@@ -1,0 +1,171 @@
+
+Gentili studenti, 
+
+di seguito alcune informazioni su modalita' e regole 
+per le prove scritte telematiche di teoria: 
+
+- la prova scritta consistera' in due domande di teoria a risposta 
+aperta sintetica (mezza pagina di foglio A4 per domanda, non ci saranno 
+esercizi) e un breve quiz con 3 domande a risposta multipla 
+(il quiz vale max 3 trentesimi, 1 punto per domanda)
+
+IMPORTANTE: all'inizio del foglio DEVONO comparire Nome Cognome Matricola 
+
+- le domande a risposta aperta saranno su aspetti SPECIFICI di TUTTO 
+il programma (ma NON interi argomenti come: "metodo di Newton" 
+o "interpolazione polinomiale")
+ 
+per avere un'idea domande specifiche del tipo:
+ 
+"cos'e' la precisione di macchina e come si calcola?" / "convergenza del 
+metodo di bisezione" / "perche' il metodo di Newton per zeri semplici 
+e' piu' veloce del metodo di bisezione?" / "giustificare il fatto che 
+se f e' C^2 l'errore dell'interpolazione lineare a tratti e' di 
+ordine h^2" / "perche' il polinomio interpolatore di grado <=n su n+1 
+nodi distinti e' unico?"/ e simili 
+
+a cui rispondere in modo sintetico ma non solo discorsivo (ci DEVONO  
+essere formule, tracce dei conti coi passaggi e tracce di dimostrazione 
+quando necessario), facendo anche (non solo) se utili un disegno e/o 
+un esempio sintetico   
+
+- esempio di domanda a risposta multipla nel quiz: 
+
+il piu' piccolo numero positivo in F(b,t,L,U) e': 
+
+A) la precisione di macchina 
+
+B) b^(U-1)
+
+C) b^(L-1) 
+
+D) 1-b^(-t)
+
+
+- la prova si svolgera' a gruppi via zoom in 35 minuti circa nell'arco 
+della giornata (la suddivisione in gruppi e l'orario di convocazione saranno 
+comunicati via mail nei giorni precedenti la data della prova agli iscritti 
+alla prova su uniweb; in caso di grandi numeri alcuni gruppi potrebbero 
+essere spostati ai giorni successivi) 
+
+- il quiz verra' comunicato e andra' fatto per primo, mostrando 
+a video le risposte nella prima riga del foglio dopo 5 minuti 
+per consentirci di fare uno screenshot (risposte tipo A,B,C,D, esempio:
+domanda 1 D, domanda 2 A, domanda 3 C); poi verra' comunicata la prima 
+domanda a risposta aperta, la seconda domanda dopo circa 15 minuti; 
+la risposta alla prima domanda DEVE essere nella meta' superiore del foglio, 
+la risposta alla seconda nella meta' inferiore (non saranno ammesse deroghe, 
+e' necessario non superare lo spazio consentito)
+
+- le iscrizioni su uniweb si chiuderanno 5 giorni prima della data della 
+prova per questioni organizzative: ATTENZIONE, chi non e' iscritto NON  
+potra' partecipare alla prova, controllate le date su uniweb  
+
+- RACCOMANDIAMO di iscriversi solo se preparati e intenzionati a svolgere 
+e consegnare la prova (non presentarsi per "tentare l'esame": chi si iscrive 
+e non si presenta o non consegna crea problemi a noi per l'organizzazione 
+e agli altri studenti perche' in presenza di grandi numeri potremmo essere 
+costretti a spostare alcuni gruppi ai giorni successivi); attenzione: 
+non stiamo dicendo che e' vietato ritirarsi, ma che vi chiediamo di 
+presentarvi solo se preparati ragionevolmente, vista la numerosita' 
+del corso e i notevoli problemi organizzativi  
+
+- la prova sara' superabile senza problemi da chi ha studiato; 
+IMPORTANTE: per superare la prova bisognera' pero' aver risposto 
+con esito almeno sufficiente a ENTRAMBE le domande aperte (voto 
+almeno 8 su 13.5 in ciascuna domanda, chi risponde ad una sola domanda 
+(che in questo caso non verra' corretta, il voto sara' direttamente 
+"insufficiente") o ha una votazione < 8 in una domanda non supera 
+la prova, e in piu' bisognera' avere risposto correttamente ad 
+ALMENO 2 domande su 3 del quiz (altrimenti la prova non e' superata)   
+
+il voto finale sara' la somma dei punteggi delle due domande 
+e del quiz, la prova e' superata con almeno 18/30   
+
+- all'inizio della prova si verra' identificati tramite documento 
+di identita' o con altra procedura indicata dall'ateneo 
+
+- durante la prova la telecamera e il microfono di zoom dovranno
+essere sempre accesi: nel caso in cui ci sia un'involontaria interruzione
+momentanea, lo studente deve rimanere seduto di fronte al monitor:
+se il sistema da solo si riconnette in tempi molto brevi la prova puo'
+continuare, altrimenti viene interrotta
+
+se alla riconnessione lo studente non e' nella posizione precedente alla
+disconnessione la prova viene comunque annullata
+
+in caso di interruzione della prova verra' deciso come procedere alla 
+ripetizione in base alla situazione organizzativa (ad esempio possibile 
+orale su tutto il programma nei giorni successivi)
+
+- durante la prova il foglio su cui si scrive dovra' essere sempre visibile 
+(un unico foglio con entrambe le facciate completamente bianche all'inizio, 
+nessun altro foglio dovra' essere presente sul tavolo/superficie di lavoro), 
+non si potra' guardare in giro o alzarsi (bisognera' limitarsi a guardare 
+il foglio del compito e scriverci), non si potra' parlare con nessuno ne' 
+fare domande (neanche ai docenti), non si potranno usare cuffie, 
+non si potra' guardare lo schermo del computer ne' toccare tastiera, mouse 
+o schermo se non quando interagite con noi all'inizio, a meta' e alla fine, 
+anche lo smartphone dovra' essere sempre visibile (appoggiato con lo schermo 
+girato verso il basso) e usato solo alla fine per la trasmissione 
+dell'elaborato 
+
+- NON si potranno avere altri fogli oltre a quello del compito, NON si 
+potra' scrivere sul retro  
+
+- NON si potranno consultare libri, dispense e appunti ne' cartacei 
+ne' digitali, NON si potranno avere a portata di mano dispositivi digitali 
+di alcun tipo (se non computer e smartphone con le regole dette)  
+
+- a fine prova verra' chiesto di mostrare a schermo il foglio del compito 
+(tutti gli studenti, contemporaneamente) per consentirci di fare uno 
+screenshot, solo gli elaborati presenti nel momento dello screenshot 
+verranno corretti (non saranno ammesse deroghe)
+
+subito dopo il foglio andra' fotografato/scansionato dal candidato 
+con lo smartphone (devono risultare data e ora della foto/scansione) 
+e il file mandato immediatamente nel modo che verra' comunicato 
+(probabilmente via mail, ma questo verra' specificato; ci sara' un 
+intervallo, breve - qualche minuto, stabilito per la trasmissione, 
+non saranno ammesse in nessun caso deroghe o invii successivi); 
+il compito che verra' corretto sara' quello inviato dal candidato 
+(dopo averlo confrontato con quello visibile nello screenshot) 
+
+- la prova di ogni gruppo sara' costantemente sorvegliata da 2-3 
+docenti collegati su zoom 
+
+- in qualsiasi momento potremo chiedere a un candidato di far vedere 
+il foglio del compito (in verticale, comunque il foglio deve 
+essere sempre visibile durante la scrittura) e/o il tavolo/superficie 
+di lavoro e/o lo schermo dello smartphone 
+
+- a chi in qualsiasi modo non rispetta le regole verra' annullata la 
+prova e dovra' ripeterla in un appello successivo (ci riserviamo pero' 
+la possibilita' di farla svolgere come orale esteso con varie domande 
+su tutto il programma a chi avesse il compito annullato per mancato 
+rispetto delle regole e comunque in un appello successivo) 
+
+- per chi venisse sorpreso a copiare o a farsi aiutare dall'esterno in 
+qualsiasi modo scatteranno anche le sanzioni previste in questi casi 
+dall'ateneo e dalla legge  
+
+in particolare l'Ateneo raccomanda: 
+
+"In un momento di grande difficolta' come quello attuale 
+e' grave approfittarsene. 
+Partecipando a questa prova d'esame la/lo studentessa/studente si 
+impegna a svolgere la prova da sola/solo, senza aiuti esterni ne' 
+utilizzare documentazioni cartacee o telematiche non autorizzate.
+In ogni caso comportamenti non corretti possono essere soggetti 
+a provvedimenti disciplinari come dall'Art.29 del Regolamento 
+carriere studenti."
+
+"Si segnala che la prova verra' videoregistrata. Questa sara' disponibile 
+esclusivamente alla Commissione d'esame e verra' eliminata entro 
+14 giorni dalla verbalizzazione dello stesso. Ulteriori informazioni, 
+anche in relazione ai dirittiri conosciuti dalla normativa privacy, 
+sono disponibili alla pagina: https://www.unipd.it/privacy.
+
+La/il candidata/candidato non e' autorizzato a registrare la prova 
+in nessuna forma."
+
