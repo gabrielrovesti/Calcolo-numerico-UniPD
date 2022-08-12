@@ -1,0 +1,7 @@
+Come imparare le dimostrazioni:
+- Ripeterle tante (ma tante) volte; da questo punto di vista, si lavori oralmente
+(facendole solo scritte, si rischia di non comprenderle fino in fondo o di ricordarle)
+- Capire (andando con calma) i singoli passaggi, comprendendo anche le definizioni
+e il significato intuitivo (algebrico o comunque di calcolo) applicato
+- Saper collegare i concetti rispetto alle dimostrazioni, approfondendo quanto si ritiene
+utile delle dimostrazioni in oggetto
