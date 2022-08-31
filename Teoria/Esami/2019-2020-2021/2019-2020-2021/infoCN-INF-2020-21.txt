@@ -1,0 +1,132 @@
+
+
+INFORMAZIONI GENERALI sul corso di CALCOLO NUMERICO 
+LT in INFORMATICA, a.a. 2020/21
+
+DOCENTE di TEORIA: prof. MARCO VIANELLO
+dip.to di matematica 
+e-mail: marcov@math.unipd.it
+pagina web del docente: https://www.math.unipd.it/~marcov 
+(si veda in particolare il "settore studenti")
+
+IMPORTANTE: perfavore usare la mail per contattarmi con 
+moderazione, quest'anno avro' 3 corsi con globalmente piu' 
+di 300 studenti 
+
+LEZIONI di TEORIA: martedi' 10.30-11.50 e venerdi' 12.30-13.50
+via ZOOM (il link zoom e' sulla pagina moodle, collegarsi 5 minuti 
+prima dell'orario di inizio, con telecamera e microfono spenti ma 
+con microfono attivabile in caso di domande) 
+
+RICEVIMENTO: lunedi' 16.45-18.45 via ZOOM (il link zoom 
+e' sulla pagina moodle); il ricevimento avverra' INDIVIDUALMENTE 
+o a GRUPPETTI di 2-3 STUDENTI (persone che tipicamente studiano 
+insieme), sarete ammessi in ordine di arrivo con waiting room, 
+prevedo 10-15 minuti in media a persona (ma prendero' il tempo 
+che ci vuole evitando interruzioni forzate)    
+
+PROGRAMMA: i programmi dei corsi degli anni precedenti tenuti dal docente
+si trovano alla fine della pagina web:
+https://www.math.unipd.it/~marcov/studenti.html
+
+LABORATORIO: martedi' 14.30-16.30 (inizio il 16/3/2021) con il 
+dott. Federico PIAZZON, coadiuvato dalla dott.ssa Francesca TEDESCHI 
+e da un tutor;
+si veda la sezione moodle del laboratorio, per tutte le informazioni 
+e il materiale (si usera' il linguaggio di programmazione MATLAB)  
+
+---------------
+
+DISPENSE e TESTI
+
+- le LEZIONI ESTESE del corso di teoria verranno inserite sulla 
+pagina moodle
+
+- le DISPENSE SINTETICHE complete del corso di teoria sono gia' 
+disponibili sulla pagina web del docente 
+
+- il MATERIALE di LABORATORIO verra' inserito nella corrispondente 
+pagina moodle    
+
+- TESTI di APPOGGIO: 
+
+A. Quarteroni, F. Saleri, Calcolo Scientifico, 
+esercizi e problemi risolti con MATLAB, Springer, qualsiasi 
+edizione  (si consiglia comunque di usarlo soprattutto per confronto, 
+il materiale di riferimento resta quello delle lezioni/dispense) 
+
+testo piu' teorico di eventuale approfondimento: 
+G. Rodriguez, Algoritmi numerici, Pitagora, ed. 2008 o successive  
+
+- ALTRO MATERIALE: 
+
+nella pagina web del docente sono presenti link a siti web 
+consigliati per avere un'idea dello spettro di applicazioni 
+del calcolo numerico e letture consigliate (meglio verso la 
+fine del corso) per questioni che riguardano prospettive storiche 
+e fondamenti della materia 
+
+---------------
+
+ESAMI 
+
+- PROVE SCRITTE di TEORIA 2021 (a turni di 1 ora con 15-20 
+studenti per turno, la suddivisione in turni sara' comunicata agli iscritti 
+via uniweb)
+
+21/6 9-18 (data modificata rispetto a quella comunicata a inizio corso) 
+
+7/7 9-18 (data modificata rispetto a quella comunicata a inizio corso) 
+
+30/8 9-18
+
+13/9 9-18
+
+una prova di teoria consistera' in un test con 3 domande a risposta multipla 
+(6 minuti per la risposta) e 2 domande a risposta aperta a cui rispondere in 
+sequenza in 15-20 minuti per domanda; la prova e' superata solo se il test 
+e' superato con almeno 2 punti su 3 e se ENTRAMBE le risposte alle domande 
+sono sufficienti (almeno 8 punti su 13.5 a domanda; se il test e' insufficiente 
+o una risposta e' insufficiente la prova andra' ripetuta per intero in un appello successivo) 
+
+- PROVA DI LABORATORIO 
+
+date e modalita' verranno comunicate sulla pagina web dedicata
+
+
+REGOLE 
+
+le prove sono indipendenti, ciascuna puo' essere sostenuta 
+in qualsiasi appello, per superare l'esame bisogna avere 
+voto positivo (>=18) in entrambe, un voto positivo resta valido 
+tutto l'anno accademico 
+
+la consegna di un elaborato in presenza di un voto precedente 
+per lo stesso tipo di prova (scritta o di laboratorio) 
+implichera' che vale il voto della prova consegnata perdendo 
+il voto precedente (se invece ci si ritira resta il voto precedente)  
+
+la prova di laboratorio implichera' un (possibile) aumento del 
+voto della prova scritta, aumento che determinera' il voto finale 
+in trentesimi, con la regola seguente: 
+
+voto prova lab. 18-22 +0
+voto prova lab. 23-26 +1 
+voto prova lab. 27-30 +2 
+
+IMPORTANTE: la registrazione avviene online: per registrare 
+un voto finale NON basta avere un voto positivo in entrambe 
+le prove ma BISOGNA iscriversi ad un appello di registrazione 
+(ne e' previsto uno in ogni sessione)  
+
+per gli appelli si controllino sempre i Calendari Esami istituzionali 
+e uniweb in prossimita' per l'iscrizione (attenzione: le iscrizioni 
+si chiuderanno 4-5 giorni prima dell'appello per motivi organizzativi, 
+iscriversi in tempo)    
+
+IMPORTANTE: i voti ottenuti nella prova scritta o nella prova 
+di laboratorio da studenti degli anni scorsi restano validi 
+se >=18, questi possono sostenere solo la prova mancante  
+
+
+

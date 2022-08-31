@@ -1,0 +1,82 @@
+
+INFORMAZIONI GENERALI sul corso di CALCOLO NUMERICO 
+per INFORMATICA, a.a. 2019/20
+
+docente di teoria: prof. Marco Vianello
+dip.to di matematica 
+pagina web del docente: https://www.math.unipd.it/~marcov 
+(si veda in particolare il "settore studenti")
+
+modalita' di ricevimento: e' attivo su moodle un Forum per domande 
+sulle lezioni di teoria 
+
+IMPORTANTE: perfavore usare la mail per contattarmi solo in caso 
+di necessita', perche' ho 2 corsi per un totale di piu' di 500 
+studenti in questo semestre 
+
+i programmi dei corsi degli anni precedenti tenuti dal docente
+si trovano alla fine della pagina web:
+https://www.math.unipd.it/~marcov/studenti.html
+
+docente di laboratorio: dott.ssa Antonia Larese (dip.to 
+di matematica) coadiuvata dai tutor dott.ssa Bachini e dott. Zhang: 
+si veda la sezione moodle del laboratorio, per tutte le informazioni 
+e il materiale 
+
+DISPENSE E TESTI: dispense sintetiche e lezioni estese del corso 
+di teoria sono sulla pagina moodle 
+
+IMPORTANTE: gli argomenti contrassegnati da * sono FACOLTATIVI 
+per questo corso  
+
+il testo consigliato e': 
+A. Quarteroni, F. Saleri, Calcolo Scientifico, 
+esercizi e problemi risolti con MATLAB, Springer, qualsiasi 
+edizione  
+(si consiglia comunque di usarlo soprattutto per confronto, 
+il materiale di riferimento resta quello delle dispense) 
+
+testo piu' teorico di eventuale approfondimento: 
+G. Rodriguez, Algoritmi numerici, Pitagora, 2008 
+
+ESAMI: l'esame consiste in una prova (se possibile scritta) 
+sulla teoria e in una prova di laboratorio, con modalita' da 
+definire a causa dell'emergenza sanitaria 
+
+le prove sono indipendenti, ciascuna puo' essere sostenuta 
+in qualsiasi appello, per superare l'esame bisogna avere 
+voto positivo (>=18) in entrambe
+
+la consegna di un elaborato in presenza di un voto precedente 
+per lo stesso tipo di prova (scritta o di laboratorio) 
+implichera' che vale il voto della prova consegnata perdendo 
+il voto precedente (se invece ci si ritira resta il voto precedente)  
+
+la prova di laboratorio implichera' un (possibile) aumento del 
+voto della prova scritta, aumento che determinera' il voto finale 
+in trentesimi, con la regola seguente: 
+
+voto prova lab. 18-22 +0
+voto prova lab. 23-26 +1 
+voto prova lab. 27-30 +2 
+
+IMPORTANTE: la registrazione avviene online: per registrare 
+un voto finale NON basta avere un voto positivo in entrambe 
+le prove ma BISOGNA iscriversi ad un appello di registrazione 
+(ne e' previsto uno in ogni sessione)  
+
+per gli appelli si vedano i Calendari Esami su moodle  
+
+IMPORTANTE: i voti ottenuti nella prova scritta o nella prova 
+di laboratorio da studenti dell'anno scorso (2018/19) restano 
+validi se >=18, questi possono sostenere solo la prova mancante  
+
+per studenti degli anni precedenti (<= 2017/18) con una prova 
+positiva contattare via mail il docente in caso di registrazione 
+
+
+
+
+
+
+

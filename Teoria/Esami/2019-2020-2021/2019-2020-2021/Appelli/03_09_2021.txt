@@ -1,0 +1,21 @@
+Primo Turno
+
+Quiz:
+1) grado dell'interpolatore di una funzione
+2) stabilità somma algebrica
+3) derivazione simmetrica
+
+Domande:
+1) Precisione macchina
+2) derivazione numerica standard
+
+Secondo Turno
+
+Quiz:
+1) indice di condizionamento di matrice A: A A^-1
+2) ordine di MEG: O(n^3)
+3) ordine di punto fisso: può essere quadratico + è sempre almeno lineare
+
+Domande:
+1) formula di quadratura dei trapezi: ricavarla + dimostrare convergenza
+2) convergenza del metodo di bisezione
