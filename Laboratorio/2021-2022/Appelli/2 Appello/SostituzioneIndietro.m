@@ -1,4 +1,5 @@
 function x=SostituzioneIndietro(U,b)
+toll=10^-9;
 % if norm(U-triu(U))>toll
 %     error('La matrice deve essere triangolare superiore')
 % end

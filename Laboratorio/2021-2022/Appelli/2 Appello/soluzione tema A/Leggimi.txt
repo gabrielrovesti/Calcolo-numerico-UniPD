@@ -1,0 +1,8 @@
+Non dispongo della prova svolta da me quindi vado a memoria,
+perciò si prendano le soluzioni date soltanto come materiale
+di consultazione/ripasso.
+
+La soluzione inserita da me la quale mancava è soltanto la
+funzione myInv.m, mentre lo script esercizio2.m è stato copiato
+dalla soluzione del temaB pubblicato su mega da un altro collega
+(rimane pur sempre corretta). 

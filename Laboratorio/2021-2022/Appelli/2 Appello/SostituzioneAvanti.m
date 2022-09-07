@@ -1,20 +1,10 @@
 function x=SostituzioneAvanti(L,b)
-% Help: SostituzioneAvanti
-% Risolve sistema lineare triangolare inferiore
-% con la tecnica della sostituzione in avanti
-% INPUT--------------------------------------------------------------------
-% L    double [m X m] Matrice triangolare inferiore
-% b    double [m X 1] Lato destro del sistema
-% OUTPUT ------------------------------------------------------------------
-% x    double [m X 1] Soluzione del sistema Lx=Pb.
-% -------------------------------------------------------------------------
-
 toll=10^-12;
 if norm(L-tril(L))>toll
     error('La matrice deve essere triangolare inferiore')
 end
 if min(abs(diag(L)))==0
-    error('Matrice singolare')
+    error('matrice singolare')
 end
 n=size(L,1);
 x=zeros(n,1);
